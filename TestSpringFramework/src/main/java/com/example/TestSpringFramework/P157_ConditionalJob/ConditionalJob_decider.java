@@ -47,7 +47,7 @@ public class ConditionalJob_decider {
                 return RepeatStatus.FINISHED;
             } ;
         }
-        @Bean
+     /*   @Bean
         public Job job()
         {
             return this.jobBuilderFactory.get("conditionalJob")
@@ -59,7 +59,7 @@ public class ConditionalJob_decider {
         public JobExecutionDecider decider()
         {
             return new RuntimeException;
-        }
+        }*/
 
         @Bean
         public Step firstStep(){
