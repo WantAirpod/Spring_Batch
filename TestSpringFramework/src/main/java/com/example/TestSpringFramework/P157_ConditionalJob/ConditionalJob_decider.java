@@ -84,7 +84,7 @@ public class ConditionalJob_decider {
 
 
     }
-    public static void main(String[] args){
-        SpringApplication.run(ConditionalJob.class,args);
-    }
+  //  public static void main(String[] args){
+  //      SpringApplication.run(ConditionalJob.class,args);
+  //  }
 }

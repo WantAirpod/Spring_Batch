@@ -90,7 +90,7 @@ public class ConditionalJob {
             //testGit
 
     }
-    public static void main(String[] args){
-        SpringApplication.run(ConditionalJob.class,args);
-    }
+    //public static void main(String[] args){
+     //   SpringApplication.run(ConditionalJob.class,args);
+    //}
 }
