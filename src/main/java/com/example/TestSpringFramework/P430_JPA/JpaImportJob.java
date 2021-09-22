@@ -63,6 +63,7 @@ public class JpaImportJob {
                 .build();
     }
 
+    
     @Bean
     public BeanValidatingItemProcessor<Customer> cusotomerValidatingItemProcessor(){
         return new BeanValidatingItemProcessor<>();
