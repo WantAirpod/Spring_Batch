@@ -44,6 +44,7 @@ public class Customer {
                 ", zipCode='" + zipCode + '\'' +
                 '}';
     }
+    
 
     public void setMiddlerIntial(String middlerIntial) {
         this.middlerIntial = middlerIntial;

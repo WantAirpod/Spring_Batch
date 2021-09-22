@@ -71,6 +71,8 @@ public class JpaImportJob {
 
 
 
+
+
     @Bean
     @StepScope
     public JpaItemWriter<com.example.TestSpringFramework.P421_Hibernate.Customer> jpaItemWriter(
